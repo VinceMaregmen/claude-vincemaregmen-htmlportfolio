@@ -1,5 +1,5 @@
 ---
-name: jp-doc-translator
+name: jp-to-eng-doctranslator
 description: "Translate Japanese-language Word (.docx/.dotx), Excel (.xlsx/.xlsm), or PDF (.pdf) documents into a single readable English Markdown file, preserving headings, tables, and images. Use whenever a user uploads or references a Japanese (or mixed-language) document and wants it translated, made readable, or converted to Markdown — e.g. 'translate this file', 'what does this Japanese doc say', 'convert this to English markdown'. Also use as the first step if the user wants the content in some other English format (report, summary), since the Markdown translation is the natural intermediate artifact. Do NOT use for documents already in English, for translating short pasted snippets (translate inline instead), or when the final deliverable must itself be an English .docx/.xlsx/.pdf (use the docx/xlsx/pdf skills for that, optionally after this skill produces clean English source content)."
 ---
 
