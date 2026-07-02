@@ -1,5 +1,5 @@
 ---
-name: excel-to-markdown
+name: excel-to-mdfileconverter
 description: "Converts Excel spreadsheets (.xlsx, .xlsm) into a Markdown (.md) file, with one section per sheet. Use this skill whenever the user wants to turn an Excel file into Markdown, a .md file, a text/document format, or wants spreadsheet data readable in a markdown viewer, README, wiki, or documentation site. Trigger this any time the user references an Excel/spreadsheet file by name or path and asks to convert, export, document, or turn it into Markdown - even if they don't say the word 'markdown' explicitly, e.g. 'can you make this xlsx readable in my docs' or 'dump this spreadsheet into a text file I can paste into Notion'. Preserves merged cells, formulas (as calculated values), and basic bold/italic styling as closely as Markdown/HTML allows. Do NOT use this skill when the desired output is itself a spreadsheet file (.xlsx/.csv) - that's the xlsx skill instead."
 license: Complete terms in LICENSE.txt
 ---
